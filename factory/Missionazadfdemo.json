@@ -1,0 +1,9 @@
+{
+	"name": "Missionazadfdemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "07a6a3ae-a34c-472c-ab7f-a61434f39f0c",
+		"tenantId": "e684a892-fc47-4a7e-9b47-4f52678241df"
+	}
+}
